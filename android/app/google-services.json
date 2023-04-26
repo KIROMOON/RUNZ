@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "976172069207",
+    "project_id": "realrunz",
+    "storage_bucket": "realrunz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976172069207:android:0b470082f7b22e7d1ace12",
+        "android_client_info": {
+          "package_name": "com.realrunz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976172069207-jgp05aa944nlvei8t2o1786qiv5bt4cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realrunz",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "976172069207-e0fnvbai0k2l20pcmqcs25i48nut1n76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuyxPasWVxbMOPcnZNA2T93Z36LBPFdug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976172069207-e0fnvbai0k2l20pcmqcs25i48nut1n76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
